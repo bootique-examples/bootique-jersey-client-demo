@@ -17,7 +17,7 @@ mvn package
 Enter the following to launch the app in Maven.
 
 ```bash
-java -jar target/bootique-jersey-client-demo-1.0-SNAPSHOT.jar
+java -jar target/bootique-jersey-client-demo-2.0.jar
 ```
 
 You will see responded html code from [google.com](https://google.com)
