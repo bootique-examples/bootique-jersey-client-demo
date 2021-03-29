@@ -1,3 +1,4 @@
+[![verify](https://github.com/bootique-examples/bootique-jersey-client-demo/actions/workflows/verify.yml/badge.svg)](https://github.com/bootique-examples/bootique-jersey-client-demo/actions/workflows/verify.yml)
 # bootique-jersey-client-demo
 
 Simple [Bootique](http://bootique.io) app demonstrating the Bootique Jersey Client Module.
