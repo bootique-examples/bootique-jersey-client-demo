@@ -1,5 +1,6 @@
-[![verify](https://github.com/bootique-examples/bootique-jersey-client-demo/actions/workflows/verify.yml/badge.svg)](https://github.com/bootique-examples/bootique-jersey-client-demo/actions/workflows/verify.yml)
 # bootique-jersey-client-demo
+
+**WARNING: Since 2.0, Jersey client integration is developed in "bootique-jersey" project. This project is only for 1.x support. The newer client examples are available [here](https://github.com/bootique-examples/bootique-jersey-examples).**
 
 Simple [Bootique](http://bootique.io) app demonstrating the Bootique Jersey Client Module.
 
